@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;JavaScript+Lover;Building+Cool+Stuff&center=true" />
+</p>
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I tell computers what to do 💻</h3>
+<h3 align="center">JavaScript doesn’t ask for perfection — it rewards persistence. 🔥</h3>
 
 ---
 
@@ -41,3 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
+
+theme=tokyonight
+theme=radical
+theme=dark
