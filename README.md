@@ -33,7 +33,7 @@
 ## 🛠️ IDEs / Editors
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" />
 </p>
 
 ---
