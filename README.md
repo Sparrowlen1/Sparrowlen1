@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Languages
+## Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,python,java,dart" />
@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ Frameworks, Platforms & Libraries
+## Frameworks, Platforms & Libraries
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind,flask,django,tensorflow,pytorch" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ IDEs / Editors
+## IDEs / Editors
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" />
@@ -38,11 +38,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sparrowlen1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparrowlen1&layout=compact&theme=tokyonight" />
 </p>
 
 theme=tokyonight
