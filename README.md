@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=FULLSTACK+Developer;Code+With+Me;&center=true" />
 </p>
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">JavaScript doesn’t ask for perfection — it rewards persistence. 🔥</h3>
+<h3 align="center">JavaScript doesn’t ask for perfection — it rewards persistence. </h3>
 
 ---
 
